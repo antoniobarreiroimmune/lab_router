@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "IPA",
+    "alcoholByVolume": 6.5,
+    "Brand": "Hoppy Brews",
+    "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPBX7m96UtX42o1dXeok_SpBWlIYUc6WdSQ&usqp=CAU",
+    "Description": "Una cerveza amarga con notas cítricas y florales."
+  },
+  {
+    "Name": "Stout",
+    "alcoholByVolume": 7.0,
+    "Brand": "Dark Ales Co.",
+    "Photo": "https://th.bing.com/th/id/OIP.ck6LBh6z4nNZ3sHSHix-LwAAAA?w=142&h=181&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza oscura y cremosa con sabores a café y chocolate."
+  },
+  {
+    "Name": "Pilsner",
+    "alcoholByVolume": 4.8,
+    "Brand": "Golden Lager",
+    "Photo": "https://th.bing.com/th/id/OIP.ml1iq4lzbHclv4C54RMfxQHaKL?w=136&h=189&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza ligera y refrescante con un toque de lúpulo."
+  },
+  {
+    "Name": "Wheat Beer",
+    "alcoholByVolume": 5.2,
+    "Brand": "Sunshine Brews",
+    "Photo": "https://th.bing.com/th/id/OIP.QwJ9ODw_o8EDGbCembWRqAHaEK?w=319&h=180&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza de trigo con notas afrutadas y especiadas."
+  },
+  {
+    "Name": "Belgian Tripel",
+    "alcoholByVolume": 9.0,
+    "Brand": "Monastery Ales",
+    "Photo": "https://th.bing.com/th/id/OIP.q0SFXbXKx3YW6klJ9YwnswHaGs?w=168&h=180&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza fuerte y compleja con sabores a frutas y especias."
+  },
+  {
+    "Name": "Amber Ale",
+    "alcoholByVolume": 5.5,
+    "Brand": "Rustic Brewing",
+    "Photo": "data:image/jpeg;base64,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",
+    "Description": "Una cerveza de color ámbar con notas a caramelo y nueces."
+  },
+  {
+    "Name": "Saison",
+    "alcoholByVolume": 6.0,
+    "Brand": "Farmhouse Ferments",
+    "Photo": "https://th.bing.com/th/id/OIP.ZQz5iNVj9cwd9xpgsROrPwHaDo?w=294&h=171&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza rústica y especiada con un toque de acidez."
+  },
+  {
+    "Name": "Porter",
+    "alcoholByVolume": 6.2,
+    "Brand": "Roasted Malts",
+    "Photo": "https://th.bing.com/th/id/OIP.0LHZKVC0GYCP_hnh3dtMqwHaLH?w=204&h=306&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza oscura con sabores a chocolate y tostado."
+  },
+  {
+    "Name": "Gose",
+    "alcoholByVolume": 4.0,
+    "Brand": "Saltwater Brews",
+    "Photo": "https://th.bing.com/th/id/OIP.xbwAl0JX41oOQcI2MNS_DQHaJK?w=204&h=253&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza ácida y salada con toques de coriandro y limón."
+  },
+  {
+    "Name": "Barleywine",
+    "alcoholByVolume": 11.5,
+    "Brand": "Vintage Cellars",
+    "Photo": "https://th.bing.com/th/id/OIP.FkDMRfBK6O7cvyB9fAgHFAHaJ4?w=204&h=272&c=7&r=0&o=5&pid=1.7",
+    "Description": "Una cerveza fuerte y dulce con sabores a caramelo y frutas secas."
+  }
+]
