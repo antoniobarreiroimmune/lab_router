@@ -1,0 +1,37 @@
+.button-link {
+    padding: 10px;
+    margin:10px;
+    background-color: #007bff; 
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    transition: background-color 0.2s, transform 0.2s;
+    font-weight: bold;
+  }
+  
+  .button-link:hover, .button-link:focus {
+    background-color: #0056b3; 
+    transform: scale(1.05);
+    color: white;
+    text-decoration: none;
+  }
+
+  .beerList{
+    list-style: none;
+  }
+
+  .container{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .containerList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
